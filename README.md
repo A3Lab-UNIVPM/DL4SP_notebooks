@@ -1,7 +1,7 @@
 # DL4SP course shared notebooks
 - __NILM with Attention__ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/A3Lab-UNIVPM/DL4SP_notebooks/blob/main/Attention_NILM.ipynb)
 <br><br><br>
-- __Audio Equalization__ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/A3Lab-UNIVPM/DL4SP_notebooks/blob/main/audio_equalization.ipynb)
+- __Audio Equalization__ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/A3Lab-UNIVPM/DL4SP_notebooks/blob/main/Audio_equalization.ipynb)
 <br><br><br>
 - __Keyword Spotting with CNN__ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/A3Lab-UNIVPM/DL4SP_notebooks/blob/main/KWS_CNN_Torch.ipynb)<br>
 Convolutional Neural Network trained on MEL spectrograms of one-second utterances, from Google Speech Command dataset
