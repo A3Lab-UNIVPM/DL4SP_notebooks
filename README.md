@@ -1,5 +1,6 @@
 # DL4SP course shared notebooks
-- __NILM with Attention__ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/A3Lab-UNIVPM/DL4SP_notebooks/blob/main/Attention_NILM.ipynb)
+- __NILM with Attention__ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/A3Lab-UNIVPM/DL4SP_notebooks/blob/main/Attention_NILM.ipynb)<br>
+Encoder-decoder structure with temporal attention for Non-Intrusive Load Monitoring (Energy disaggregation) task.
 <br><br><br>
 - __Audio Equalization__ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/A3Lab-UNIVPM/DL4SP_notebooks/blob/main/Audio_equalization.ipynb)
 <br><br><br>
